@@ -1,4 +1,6 @@
+#include <stdio.h>
 #include <stdint.h>
+#include <string.h>
 
 #define MAX_PAYLOAD_SIZE       0xFF
 #define CLIENT_ID              30
